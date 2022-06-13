@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ email: marko.swift@protonmail.com
-Portofolio: **SOON**
+- 🌐 Portofolio: **SOON**
